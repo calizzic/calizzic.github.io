@@ -1,0 +1,23 @@
+body {
+    background-color: pink;
+}
+
+div {
+    width: 500px;
+    border: 22px solid purple;
+    padding: 90px;
+    margin: 10px;
+  }
+
+.heading {
+    background-color: yellow;
+}
+
+a:hover{
+    background-color:fuchsia;
+}
+
+#paragraph{
+    color: blue;
+}
+
